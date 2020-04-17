@@ -4,4 +4,8 @@ info:
   
 my:
   config:
-    test: pre
+    test: my.config.test.pre
+    
+pre:
+  config:
+    test: pre.config.test.pre
