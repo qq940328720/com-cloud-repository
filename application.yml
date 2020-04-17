@@ -9,4 +9,4 @@ my:
     test: default
     
 default:
-  config: default.config.test.default
+  config: default.config.default

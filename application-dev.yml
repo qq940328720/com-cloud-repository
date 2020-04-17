@@ -3,4 +3,4 @@ info:
   from: git
 
 dev:
-  config: dev.config.test.dev
+  config: dev.config.dev
