@@ -4,3 +4,9 @@ info:
 
 dev:
   config: dev.config.dev
+
+data:
+  user:
+    userName: lijing
+    passWord: yan
+  token: yanlijing
