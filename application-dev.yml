@@ -7,6 +7,6 @@ dev:
 
 data:
   user:
-    userName: lijing
-    passWord: yan
+    username: lijing
+    password: yan
   token: yanlijing
