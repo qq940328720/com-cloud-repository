@@ -2,6 +2,6 @@ info:
   profile: pre
   from: git-publish-repo
   
-test:
-  cur:
-    env: pre-publish
+my:
+  config:
+    test: pre

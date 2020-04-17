@@ -2,6 +2,6 @@ info:
   profile: prdt
   from: git-publish-repo
   
-test:
-  cur:
-    env: prdt-publish
+my:
+  config:
+    test: prdt
