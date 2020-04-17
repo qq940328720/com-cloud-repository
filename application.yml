@@ -7,3 +7,6 @@ test: bbb
 my:
   config:
     test: default
+    
+default:
+  config: default.config.test.default
