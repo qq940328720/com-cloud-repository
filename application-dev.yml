@@ -1,3 +1,7 @@
 info:
   profile: dev
   from: git
+
+my:
+  config:
+    test: dev

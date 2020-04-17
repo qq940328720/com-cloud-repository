@@ -3,3 +3,7 @@ info:
   from: git1
 
 test: bbb
+
+my:
+  config:
+    test: default
